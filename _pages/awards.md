@@ -5,8 +5,6 @@ permalink: /awards/
 author_profile: true
 ---
 
-## Awards and Honors
-
 - **Selected Participant**, *ACS Postdoc to Faculty (ACSP2F) Workshop*, Washington, DC, 2025  
   *Nationally competitive ACS-sponsored program preparing selected postdoctoral fellows for faculty careers*
 
