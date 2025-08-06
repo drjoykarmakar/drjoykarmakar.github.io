@@ -5,9 +5,14 @@ permalink: /awards/
 author_profile: true
 ---
 
-- Selected to the **ACS Postdoc to Faculty Workshop** in Washington DC, 2025 (Expense awarded by the American Chemical Society).
-  
-- **Postdoctoral Independent Research Grant Award** from the Program for Breakthrough Biomedical Research (PBBR), Sandler Foundation, USA, 2024.
+## Awards and Honors
+
+- **Selected Participant**, *ACS Postdoc to Faculty (ACSP2F) Workshop*, Washington, DC, 2025  
+  Nationally competitive ACS-sponsored program preparing selected postdoctoral fellows for faculty careers
+
+- **Independent Postdoctoral Research Grant**, *“Selective Fluorescent Sensor for ‘Zombie Drug’ Xylazine”*  
+  Sandler Program for Breakthrough Biomedical Research (PBBR), UCSF, 2024  
+  Highly selective UCSF internal award supporting high-risk, high-reward independent biomedical research that is clearly distinct from the postdoctoral mentor’s research
 
 - **Postdoctoral Fellowship** awarded from 2023 to 2025 by the University of California, San Francisco, USA.
 
