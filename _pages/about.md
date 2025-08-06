@@ -10,7 +10,7 @@ I am <strong>Dr. Joy Karmakar</strong>, a chemist translating molecular insight 
 </p>
 
 <p style="text-align: justify;">
-From the quiet, verdant town of Jhalda in West Bengal—where curiosity took root under open skies and modest surroundings— as a first genration graduate my journey has spanned continents, disciplines, and frontiers of molecular science. I began my academic path at the storied Department of Chemistry at <strong>Presidency College</strong> (now Presidency University), Kolkata — India’s oldest chemistry department and a cradle of scientific excellence since the 19th century.
+From the quiet, verdant town of Jhalda in West Bengal—where curiosity took root under open skies and modest surroundings— my journey has spanned continents, disciplines, and frontiers of molecular science. As a First Generation College Student, I began my academic path at the storied Department of Chemistry at <strong>Presidency College</strong> (now Presidency University), Kolkata — India’s oldest chemistry department and a cradle of scientific excellence since the 19th century.
 After laying a solid foundation there, I advanced to the <strong>University of Hyderabad</strong> to earn my master’s degree, further refining my scientific vision. After spending a year in <strong>IISER-Pune</strong> to advance my research experience, my academic journey eventually took me overseas to <strong>Ariel University in Israel</strong>, where I earned a Ph.D. in Chemistry. Along the way, I have dedicated my research to the exciting interface of molecular design and diagnostic innovation, always with the goal of bridging bench-side discovery and clinical impact.
 </p>
 
