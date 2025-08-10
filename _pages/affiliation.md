@@ -5,26 +5,26 @@ permalink: /affiliation/
 author_profile: true
 ---
 
-<ul style="list-style: none; padding-left: 0; max-width: 800px;">
+<ul style="list-style: none; padding-left: 0;">
   <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>American Association for the Advancement of Science (AAAS)</strong></span>
-    <span style="width: 120px; text-align: right; color: #777;">2025 – Present</span>
+    <span>2025 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
     <span><strong>Invited Member</strong> of <strong>Youth Editorial Board</strong> for <em>Carbon Energy, Wiley</em></span>
-    <span style="width: 120px; text-align: right; color: #777;">2024 – Present</span>
+    <span>2024 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
     <span><strong>Social Media Team Member</strong>, International Younger Chemists Network (IYCN), IUPAC</span>
-    <span style="width: 120px; text-align: right; color: #777;">2022 – Present</span>
+    <span>2022 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>American Chemical Society &amp; ACS Division of Medicinal Chemistry</strong></span>
-    <span style="width: 120px; text-align: right; color: #777;">2023 – Present</span>
+    <span>2023 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>Israel Chemical Society</strong></span>
-    <span style="width: 120px; text-align: right; color: #777;">2022 – Present</span>
+    <span>2022 – Present</span>
   </li>
 </ul>
 
