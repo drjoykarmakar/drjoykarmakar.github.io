@@ -19,7 +19,7 @@ author_profile: true
     <span>2022 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
-    <span>Member of <strong>American Chemical Society &amp; ACS Division of Medicinal Chemistry</strong></span>
+    <span>Member of <strong>American Chemical Society &amp; ACS MEDI</strong></span>
     <span>2023 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
