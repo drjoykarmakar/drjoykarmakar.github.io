@@ -15,7 +15,7 @@ author_profile: true
     <span>2024 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
-    <span> Member, International Younger Chemists Network (IYCN), IUPAC</span>
+    <span> Member of International Younger Chemists Network (IYCN), IUPAC</span>
     <span>2022 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
