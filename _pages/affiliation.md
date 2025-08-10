@@ -33,9 +33,9 @@ author_profile: true
 <div style="text-align: center; margin-top: 30px;">
   <strong>****************************</strong><br><br>
   <div style="display: flex; justify-content: center; align-items: center; gap: 50px; flex-wrap: wrap;">
-    <img src="/images/American_Association_for_the_Advancement_of_Science.svg.png" alt="AAAS" style="height: 90px;">
+    <img src="/images/American_Association_for_the_Advancement_of_Science.svg.png" alt="AAAS" style="height: 80px;">
     <img src="/images/Carbon Energy.jpg" alt="Carbon Energy" style="height: 110px;">
-    <img src="/images/IYCNNNNN logo.png" alt="IYCN" style="height: 70px;">
+    <img src="/images/IYCNNNNN logo.png" alt="IYCN" style="height: 80px;">
     <img src="/images/ACS Logo.png" alt="ACS Logo" style="height: 110px;">
     <img src="/images/ICS Logo.png" alt="ICS Logo" style="height: 110px;">
   </div>
