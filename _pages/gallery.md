@@ -96,13 +96,6 @@ author_profile: true
   </figure>
 
   <figure class="gallery-item">
-    <a href="/images/2f39260f-f5b0-4138-a90d-03dcc8744e4d.jpeg">
-      <img loading="lazy" src="/images/2f39260f-f5b0-4138-a90d-03dcc8744e4d.jpeg" alt="Delivering ACS talk on Push–Pull Bimanes">
-    </a>
-    <figcaption><span>Delivering my first ACS talk on the Push–Pull Bimane derivatives at the ACS Fall Meeting 2023.</span></figcaption>
-  </figure>
-
-  <figure class="gallery-item">
     <a href="/images/IMG_7187.jpeg">
       <img loading="lazy" src="/images/IMG_7187.jpeg" alt="Cil Lab celebration at UCSF">
     </a>
