@@ -4,7 +4,7 @@ title: "Affiliation"
 permalink: /affiliation/
 author_profile: true
 ---
-<ul style="padding-left: 20px; list-style: disc;">
+
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>American Association for the Advancement of Science (AAAS)</strong></span>
@@ -15,7 +15,7 @@ author_profile: true
     <span>2024 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
-    <span><strong>Social Media Team Member</strong>, International Younger Chemists Network (IYCN), IUPAC</span>
+    <span> Member, International Younger Chemists Network (IYCN), IUPAC</span>
     <span>2022 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
