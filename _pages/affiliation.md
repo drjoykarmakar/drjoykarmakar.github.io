@@ -4,7 +4,7 @@ title: "Affiliation"
 permalink: /affiliation/
 author_profile: true
 ---
-
+<ul style="padding-left: 20px; list-style: disc;">
 <ul style="list-style: none; padding-left: 0;">
   <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>American Association for the Advancement of Science (AAAS)</strong></span>
