@@ -4,15 +4,29 @@ title: "Affiliation"
 permalink: /affiliation/
 author_profile: true
 ---
-- Member of **American Association for the Advancement of Science (AAAS)**, 2025 - Present
 
-- **Invited Member** of **Youth Editorial Board** for _Carbon Energy, Wiley,_ 2024 - Present.
-
-- **Social Media Team Member**, International Younger Chemists Network (IYCN), IUPAC, 2022 - Present
-
-- Member of **American Chemical Society & ACS Division of Medicinal Chemistry**, 2023 - Present
-
-- Member of **Israel Chemical Society**, 2022 - Present
+<ul style="list-style: none; padding-left: 0;">
+  <li style="display: flex; justify-content: space-between;">
+    <span>Member of <strong>American Association for the Advancement of Science (AAAS)</strong></span>
+    <span>2025 – Present</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span><strong>Invited Member</strong> of <strong>Youth Editorial Board</strong> for <em>Carbon Energy, Wiley</em></span>
+    <span>2024 – Present</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span><strong>Social Media Team Member</strong>, International Younger Chemists Network (IYCN), IUPAC</span>
+    <span>2022 – Present</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span>Member of <strong>American Chemical Society &amp; ACS Division of Medicinal Chemistry</strong></span>
+    <span>2023 – Present</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span>Member of <strong>Israel Chemical Society</strong></span>
+    <span>2022 – Present</span>
+  </li>
+</ul>
 
 <hr>
 
