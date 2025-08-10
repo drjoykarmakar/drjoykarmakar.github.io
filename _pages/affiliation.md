@@ -15,12 +15,12 @@ author_profile: true
     <span>2024 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
-    <span> Member of International Younger Chemists Network (IYCN), IUPAC</span>
-    <span>2022 – Present</span>
-  </li>
-  <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>American Chemical Society &amp; ACS MEDI</strong></span>
     <span>2023 – Present</span>
+  </li>
+  <li style="display: flex; justify-content: space-between;">
+    <span> Member of International Younger Chemists Network (IYCN), IUPAC</span>
+    <span>2022 – Present</span>
   </li>
   <li style="display: flex; justify-content: space-between;">
     <span>Member of <strong>Israel Chemical Society</strong></span>
