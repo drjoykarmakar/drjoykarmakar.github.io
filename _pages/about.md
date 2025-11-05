@@ -15,13 +15,13 @@ After laying a solid foundation there, I advanced to the <strong>University of H
 </p>
 
 <p style="text-align: justify;">
-Currently, at <strong>the University of California, San Francisco (UCSF)</strong>, I am part of a cutting-edge research team developing <strong>selective small-molecule inhibitors</strong> targeting key ion transporters such as <strong>SLC26A6 (PAT1) and SLC26A4 (pendrin)</strong>. These proteins are central to epithelial ion transport and are promising therapeutic targets for cystic fibrosis and related disorders. Our work seeks to address the molecular basis of these diseases, with the aim of translating discoveries from bench to bedside.
+At <strong>the University of California, San Francisco (UCSF)</strong>, I was part of a cutting-edge research team developing <strong>selective small-molecule inhibitors</strong> targeting key ion transporters such as <strong>SLC26A6 (PAT1) and SLC26A4 (pendrin)</strong>. These proteins are central to epithelial ion transport and are promising therapeutic targets for cystic fibrosis and related disorders. Our work seeks to address the molecular basis of these diseases, with the aim of translating discoveries from bench to bedside.
 </p>
 
 <p style="text-align: justify;">
-Alongside this, I lead an independent research effort driven by a pressing crisis in public health: the <strong>emergence of Xylazine as a dangerous opioid adulterant in the United States</strong>. In response to this escalating threat, I am developing an innovative fluorescent probe for rapid Xylazine detection—enabling real-time, on-the-ground diagnostics that could save lives and reshape how we respond to contaminated drug supplies. It is science not only for understanding, but for urgent intervention.
+Alongside this, I led an independent research effort driven by a pressing crisis in public health: the <strong>emergence of Xylazine as a dangerous opioid adulterant in the United States</strong>. In response to this escalating threat, I was developing an innovative fluorescent probe for rapid Xylazine detection—enabling real-time, on-the-ground diagnostics that could save lives and reshape how we respond to contaminated drug supplies. It is science not only for understanding, but for urgent intervention.
 </p>
 
 <p style="text-align: justify;">
-Across each stage of this journey—from a remote town in eastern India to the research halls of Israel and the laboratories of San Francisco—my compass has remained steady: to <strong>engineer molecules that matter</strong>, and to bridge the worlds of chemistry and medicine with purpose, creativity, and impact.
+Across each stage of this journey—from a remote town in eastern India to the laboratories of Israel and the research halls of the San Francisco — my compass has remained steady: to <strong>engineer molecules that matter</strong>, and to bridge the worlds of chemistry and medicine with purpose, creativity, and impact.
 </p>
