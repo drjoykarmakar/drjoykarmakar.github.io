@@ -89,7 +89,7 @@ author_profile: true
   </figure>
 <figure class="gallery-item">
     <a href="/images/Yaghi.jpeg">
-      <img loading="lazy" src="/images/IMG_9732.jpeg" alt="With Prof. Omar Yaghi">
+      <img loading="lazy" src="/images/Yaghi.jpeg" alt="With Prof. Omar Yaghi">
     </a>
     <figcaption><span> With Prof. Omar Yaghi, 2025 Nobel Prize recepient in Chemistry and Prof. Makoto Fujita at Technion, Israel 2018 during the Wolf Prize Symposium </span></figcaption>
   </figure>
