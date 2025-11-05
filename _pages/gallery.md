@@ -87,6 +87,12 @@ author_profile: true
     </a>
     <figcaption><span>With my Ph.D. supervisor at the ACS Fall Meeting 2023, San Francisco—celebrating a successful oral presentation on bimane chemistry.</span></figcaption>
   </figure>
+<figure class="gallery-item">
+    <a href="/images/Yaghi.jpeg">
+      <img loading="lazy" src="/images/IMG_9732.jpeg" alt="With Prof. Omar Yaghi">
+    </a>
+    <figcaption><span> With Prof. Omar Yaghi, 2025 Nobel Prize recepient in Chemistry and Prof. Makoto Fujita at Technion, Israel 2018 during the Wolf Prize Symposium </span></figcaption>
+  </figure>
 
   <figure class="gallery-item">
     <a href="/images/IMG_9742.jpeg">
