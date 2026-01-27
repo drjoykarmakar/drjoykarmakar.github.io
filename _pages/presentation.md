@@ -6,6 +6,10 @@ author_profile: true
 ---
 
 <p style="text-align: justify;">
+• “<strong>DyeMind: Unleashing the potential of Artificial Intelligence in Luminescence Science</strong>” — by J. Karmakar*. </strong>Pacifichem 2025</strong>: International Chemical Congress of Pacific Basin Societies, Honolulu, Hawaii, United States. P – 127, December 15–20, 2025. (Poster Presentation)
+</p>
+
+<p style="text-align: justify;">
 • “<strong>Bright & Bold: Exploring the photophysical properties of Push-Pull Bimanes</strong>” — by J. Karmakar, N. C. Roy and F. Grynszpan*. American Chemical Society Fall Meeting, San Francisco, United States, August 13–17, 2023. (Oral Presentation)
 </p>
 
