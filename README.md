@@ -1,6 +1,6 @@
 <img width="1500" height="500" alt="Copy of Aesthetic Twitter Header (1)" src="https://github.com/user-attachments/assets/f8a39f95-8363-45e3-ad49-b452d1ca4b38" />
 <div align="center">
-  <!-- === YOUR HEADER IMAGE === -->
+  ###<!-- === YOUR HEADER IMAGE === -->
   <img src="https://github.com/drjoykarmakar/drjoykarmakar/blob/main/header.jpg" alt="Dr. Joy Karmakar Header" width="100%" style="border-radius: 15px;"/>
 
   <h1>Hi there, I'm Dr. Joy Karmakar 👋</h1>
