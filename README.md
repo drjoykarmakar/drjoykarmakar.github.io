@@ -1,3 +1,5 @@
+![Uploading Copy of Aesthetic Twitter Header (1).png…]()
+
 <p align="center">
   <img src="assets/svg/hero.svg" alt="Dr. Joy Karmakar — AI infrastructure for molecular discovery" width="100%" />
 </p>
