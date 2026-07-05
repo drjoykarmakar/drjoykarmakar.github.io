@@ -1,0 +1,28 @@
+name: Update Dynamic Profile README
+
+on:
+  schedule:
+    - cron: "0 3 * * *"      # Runs every day at 3:00 AM UTC
+  workflow_dispatch:         # Allows manual trigger
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Update GitHub Stats Cards
+        uses: anuraghazra/github-readme-stats-action@v1
+        with:
+          username: drjoykarmakar
+          theme: tokyonight
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add .
+          git commit -m "Update dynamic profile stats" || echo "No changes to commit"
+          git push
