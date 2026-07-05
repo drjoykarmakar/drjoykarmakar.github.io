@@ -1,66 +1,104 @@
-<img width="1500" height="500" alt="Copy of Aesthetic Twitter Header (1)" src="https://github.com/user-attachments/assets/f8a39f95-8363-45e3-ad49-b452d1ca4b38" />
-<div align="center">
-  
-  <img src="https://github.com/drjoykarmakar/drjoykarmakar/blob/main/header.jpg" alt="Dr. Joy Karmakar Header" width="100%" style="border-radius: 15px;"/>
-
-  <h1>Hi there, I'm Dr. Joy Karmakar 👋</h1>
-  
-  <p>
-    <strong>Medicinal Chemist</strong> • 
-    <strong>AI/ML Researcher</strong> • 
-    <strong>Postdoc @ UCSF</strong>
-  </p>
-
-  <a href="https://www.joykarmakar.com"><img src="https://img.shields.io/badge/Website-joykarmakar.com-0A66C2?style=for-the-badge&logo=web&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/joykarmakarchem"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://scholar.google.com/citations?user=uaIKU0oAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white"/></a>
-  <a href="https://x.com/Joy_Karmakar"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-</div>
-
----
-
-### 🧬 About Me
-
-**Ph.D. Medicinal Chemistry** | Postdoctoral Fellow at **UCSF**  
-Founder of **DyeMind** — AI-powered platform for fluorescent probes and drug discovery.
-
-I specialize in **Bimane chemistry**, designing novel fluorescent sensors, and using **AI/ML** to accelerate chemical innovation.
-
----
-
-### 📊 Live Statistics
-
 <div align="center">
 
-![Visitor Count](https://komarev.com/ghpvc/?username=drjoykarmakar&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+<img width="100%" alt="Dr. Joy Karmakar — AI × Chemistry × Drug Discovery" src="https://github.com/user-attachments/assets/f8a39f95-8363-45e3-ad49-b452d1ca4b38" />
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drjoykarmakar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+# Dr. Joy Karmakar
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=drjoykarmakar&layout=compact&theme=tokyonight&hide_border=true)
+### Building molecular intelligence for the next era of drug discovery
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=drjoykarmakar&theme=tokyonight&column=4&margin-w=15)
+**Medicinal Chemist** · **AI/ML Researcher** · **Postdoctoral Fellow @ UCSF** · **Founder of DyeMind**
 
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=drjoykarmakar&theme=tokyonight&hide_border=true)
+<a href="https://www.joykarmakar.com"><img src="https://img.shields.io/badge/Website-joykarmakar.com-33D7FF?style=for-the-badge&logo=googlechrome&logoColor=06111F" /></a>
+<a href="https://scholar.google.com/citations?user=uaIKU0oAAAAJ"><img src="https://img.shields.io/badge/Google%20Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/joykarmakarchem"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://x.com/Joy_Karmakar"><img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 
 </div>
 
 ---
 
-### 🛠️ Skills
+## 🧬 Mission
 
-**Chemistry** • Synthetic Organic • Fluorescent Probes (Bimane) • Drug Discovery • Sensors  
-**AI/ML** • Python • PyTorch • TensorFlow • Generative Models  
-**Tools** • Git • Docker • Jupyter • AWS • Chemdraw
+I build tools, probes, models, and platforms that help scientists move faster from molecular idea to validated discovery. My work sits at the intersection of **medicinal chemistry**, **fluorescent probe design**, **bimane chemistry**, **cheminformatics**, and **generative AI**.
+
+> The future of drug discovery belongs to scientists who can bridge chemistry with machine intelligence.
 
 ---
 
-### 🚀 Featured Work
-- **DyeMind** – AI for Molecular Design
-- Bimane-Based Fluorescent Sensors
-- AI-Driven Drug Discovery Pipelines
+## 🔬 Research Focus
+
+<table>
+<tr>
+<td width="33%">
+
+### 🧪 Fluorescent Probes
+Designing responsive molecular systems and sensors with emphasis on bimane chemistry and measurable biological utility.
+
+</td>
+<td width="33%">
+
+### 🤖 AI for Molecules
+Developing machine-learning workflows for molecular generation, property prediction, ranking, and discovery acceleration.
+
+</td>
+<td width="33%">
+
+### 💊 Drug Discovery
+Connecting medicinal chemistry intuition with computational screening and data-driven prioritization.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 Featured Work
+
+### DyeMind
+AI-powered platform for fluorescent probe discovery and molecular design.
+
+### Bimane-Based Fluorescent Sensors
+Novel fluorescent sensors for high-value chemical and biological questions.
+
+### AI-Driven Drug Discovery Pipelines
+Cheminformatics and ML workflows for screening, molecular prioritization, and scientific decision support.
+
+---
+
+## 🛠️ Toolbox
+
+**Chemistry:** Medicinal Chemistry · Synthetic Organic Chemistry · Bimane Chemistry · Fluorescent Probes · Sensors · Drug Discovery  
+**AI/ML:** Python · PyTorch · TensorFlow · Generative Models · Cheminformatics · RDKit  
+**Tools:** Git · Docker · Jupyter · AWS · ChemDraw · Scientific Computing
+
+---
+
+## 📊 Live GitHub Dashboard
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=drjoykarmakar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=drjoykarmakar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=drjoykarmakar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 📚 Academic Profile
+
+For current publications, citation metrics, and research impact, visit my [Google Scholar profile](https://scholar.google.com/citations?user=uaIKU0oAAAAJ).
 
 ---
 
 <div align="center">
-  <strong>Let's advance science together! ✨</strong>
+
+### Let’s build the future of molecular intelligence.
+
+<a href="https://www.joykarmakar.com">Website</a> ·
+<a href="https://scholar.google.com/citations?user=uaIKU0oAAAAJ">Scholar</a> ·
+<a href="https://www.linkedin.com/in/joykarmakarchem">LinkedIn</a> ·
+<a href="https://x.com/Joy_Karmakar">X</a>
+
 </div>
